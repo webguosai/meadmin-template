@@ -1,0 +1,1 @@
+import{k as s}from"./keys-KmCXO-CJ.js";function c(n){return n}function p(n){return function(r,o,u){for(var a=-1,t=Object(r),e=u(r),i=e.length;i--;){var f=e[n?i:++a];if(o(t[f],f,t)===!1)break}return r}}var l=p();function F(n,r){return n&&l(n,r,s)}function h(n){return typeof n=="function"?n:c}function O(n,r){return n&&F(n,h(r))}export{O as f};

@@ -1,0 +1,1 @@
+import{_ as e}from"./index-9aGlfxYy.js";import{o,c as r}from"./core-pFF3Oy_E.js";import"./mock-XM2hXCKV.js";import"./elIcon-Slqp96jp.js";const t={};function c(n,i){return o(),r("div",null,"当前页面 admin/editor可见")}const p=e(t,[["render",c]]);export{p as default};

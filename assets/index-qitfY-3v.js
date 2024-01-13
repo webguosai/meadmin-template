@@ -1,0 +1,1 @@
+import{f as o}from"./forOwn-BUCI4wbQ.js";import"./keys-KmCXO-CJ.js";import"./index-9aGlfxYy.js";import"./mock-XM2hXCKV.js";import"./core-pFF3Oy_E.js";import"./elIcon-Slqp96jp.js";const s="大",a="小",l={large:s,default:"默认",small:a," ":""},r=Object.assign({"./default.json":l}),e={};o(r,t=>{Object.assign(e,t)});export{e as default};
